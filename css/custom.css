@@ -2,6 +2,7 @@
 
 div .box {
     /*background: rgba(125, 125, 125, 0.62);*/
-    background: rgba(61, 83, 143, 0.62);
+    background: rgba(0, 0, 0, 0.62);
+    /*background: rgba(61, 83, 143, 0.62); // blue*/
     padding: 10px;
 }
