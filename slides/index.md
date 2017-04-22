@@ -1,3 +1,0 @@
-
-## L.CanvasLayer.Field
-Un plugin de Leaflet para pintar Rasters y más...
