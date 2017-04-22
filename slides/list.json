@@ -1,1 +1,15 @@
-["index.md"]
+[
+    {
+        "filename": "portada.html",
+        "attr": {
+            "data-background-image": "./resources/img/CorrientesCantabria.png"
+        }
+    },
+    {
+        "filename": "ihcantabria.html",
+        "attr": {
+            "data-background-image": "./resources/img/IHCantabria.jpg"
+        }
+    }
+
+]
