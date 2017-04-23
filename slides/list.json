@@ -5,11 +5,21 @@
             "data-background-image": "./resources/img/CorrientesCantabria.png"
         }
     },
-    {
-        "filename": "ihcantabria.html",
-        "attr": {
-            "data-background-image": "./resources/img/IHCantabria.jpg"
+    [
+        "inicio.html",
+        {
+            "filename": "inicio-ih.html",
+            "attr": {
+                "data-background-image": "./resources/img/IHCantabria.jpg"
+            }
+        },
+        {
+            "filename": "inicio-earthnull.html",
+            "attr": {
+                "data-background-image": "./resources/img/EarthNull.png"
+            }
         }
-    },
-    "future-2.html"
+    ],
+    "future-2.html",
+    "fin.html"
 ]
