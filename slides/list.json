@@ -6,20 +6,60 @@
         }
     },
     [
-        "inicio.html",
         {
-            "filename": "inicio-ih.html",
+            "filename": "inicio.html",
             "attr": {
-                "data-background-image": "./resources/img/IHCantabria.jpg"
+                "data-background": "#C22326"
             }
         },
         {
-            "filename": "inicio-earthnull.html",
+            "filename": "inicio/ih.html",
             "attr": {
-                "data-background-image": "./resources/img/EarthNull.png"
+                "data-background-image": "./resources/img/inicio/IHCantabria.jpg"
+            }
+        },
+        {
+            "filename": "inicio/animaciones.html",
+            "attr": {
+                "data-background-image": "./resources/img/inicio/EarthNull.png"
+            }
+        },
+        {
+            "filename": "inicio/earthnull.html",
+            "attr": {
+                "data-background-image": "./resources/img/inicio/EarthNull.png"
             }
         }
     ],
-    "future-2.html",
-    "fin.html"
+    [
+      {
+          "filename": "vector.html",
+          "attr": {
+              "data-background": "#f37338"
+          }
+      },
+      "vector/uv.html"
+    ],
+    [
+      {
+          "filename": "scalar.html",
+          "attr": {
+              "data-background": "#FDB632"
+          }
+      }
+    ],
+    [
+      {
+          "filename": "plugin.html",
+          "attr": {
+              "data-background": "#027878"
+          }
+      }
+    ],
+    {
+        "filename": "fin.html",
+        "attr": {
+            "data-background": "#801638"
+        }
+    }
 ]
