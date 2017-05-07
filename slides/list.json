@@ -81,7 +81,7 @@
         {
             "filename": "inicio/earthnull-reto.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/mountain.png"
+                "data-background-image": "./resources/img/inicio/mountain.jpg"
             }
         }
     ],
