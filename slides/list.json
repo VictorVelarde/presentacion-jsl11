@@ -75,7 +75,7 @@
         {
             "filename": "inicio/earthnull-replicas.html",
             "attr": {
-                "data-background-image": ""
+                "data-background-image": "./resources/img/inicio/moda.jpg"
             }
         },
         {
