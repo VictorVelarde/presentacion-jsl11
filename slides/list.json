@@ -19,41 +19,95 @@
             }
         },
         {
-            "filename": "inicio/animaciones.html",
+            "filename": "inicio/animaciones-1.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/EarthNull.png"
+                "data-background-image": "./resources/img/inicio/currents.jpg"
             }
         },
         {
-            "filename": "inicio/earthnull.html",
+            "filename": "inicio/animaciones-2.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/EarthNull.png"
+                "data-background": "#C22326"
+            }
+        },
+        {
+            "filename": "inicio/animaciones-3.html",
+            "attr": {
+                "data-background": "#C22326"
+            }
+        },
+        {
+            "filename": "inicio/animaciones-4.html",
+            "attr": {
+                "data-background": "#C22326"
+            }
+        },
+        {
+            "filename": "inicio/animaciones-5.html",
+            "attr": {
+                "data-background-image": "./resources/img/inicio/tortoise.jpg"
+            }
+        },
+        {
+            "filename": "inicio/animaciones-6.html",
+            "attr": {
+                "data-background-image": "./resources/img/inicio/portatil.jpg"
+            }
+        },
+        {
+            "filename": "inicio/earthnull-1.html",
+            "attr": {
+                "data-background-image": "./resources/img/inicio/earthnull.gif"
+            }
+        },
+        {
+            "filename": "inicio/earthnull-2.html",
+            "attr": {
+                "data-background-image": "./resources/img/inicio/earthnull.png"
+            }
+        },
+        {
+            "filename": "inicio/earthnull-windmap.html",
+            "attr": {
+                "data-background-image": "./resources/img/inicio/windmap.png"
+            }
+        },
+        {
+            "filename": "inicio/earthnull-replicas.html",
+            "attr": {
+                "data-background-image": ""
+            }
+        },
+        {
+            "filename": "inicio/earthnull-reto.html",
+            "attr": {
+                "data-background-image": "./resources/img/inicio/mountain.png"
             }
         }
     ],
     [
-      {
-          "filename": "vector.html",
-          "attr": {
-              "data-background": "#f37338"
-          }
+        {
+            "filename": "vector.html",
+            "attr": {
+                "data-background": "#f37338"
+            }
       },
       "vector/uv.html"
     ],
     [
-      {
-          "filename": "scalar.html",
-          "attr": {
-              "data-background": "#FDB632"
-          }
+        {
+            "filename": "scalar.html",
+            "attr": {
+                "data-background": "#FDB632"
+            }
       }
     ],
     [
-      {
-          "filename": "plugin.html",
-          "attr": {
-              "data-background": "#027878"
-          }
+        {
+            "filename": "plugin.html",
+            "attr": {
+                "data-background": "#027878"
+            }
       }
     ],
     {
