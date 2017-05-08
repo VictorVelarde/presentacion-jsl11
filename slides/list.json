@@ -158,7 +158,12 @@
                 "data-background": "#f37338"
             }
         },
-        "vector/exito.html"
+        {
+            "filename": "vector/exito.html",
+            "attr": {
+                "data-background": "./resources/img/vector/exito.gif"
+            }
+        }        
     ],
     [
         {
