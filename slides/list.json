@@ -163,7 +163,31 @@
             "attr": {
                 "data-background": "./resources/img/vector/exito.gif"
             }
-        }        
+        },
+        {
+            "filename": "vector/vector-codigo-1.html",
+            "attr": {
+                "data-background": "#f37338"
+            }
+        },
+        {
+            "filename": "vector/vector-codigo-2.html",
+            "attr": {
+                "data-background": "#f37338"
+            }
+        },
+        {
+            "filename": "vector/vector-estilos.html",
+            "attr": {
+                "data-background": "#f37338"
+            }
+        },
+        {
+            "filename": "vector/vector-escalar.html",
+            "attr": {
+                "data-background": "#f37338"
+            }
+        }
     ],
     [
         {

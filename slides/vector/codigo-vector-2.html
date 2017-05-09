@@ -1,0 +1,15 @@
+<h2>Capa VectorFieldAnim (II)</h2>
+<pre><code data-trim>
+layer.on('click', function(e) {
+    if (e.value !== null) {
+        let vector = e.value;
+        let v = vector.magnitude().toFixed(2);
+        let d = vector.directionTo().toFixed(0);
+
+        let html = (`<span>${v} m/s to ${d}&deg</span>`);
+        let popup = L.popup().setLatLng(e.latlng)
+            .setContent(html).openOn(map);
+    }
+});
+</code>
+</pre>
