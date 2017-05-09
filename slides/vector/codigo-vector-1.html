@@ -1,0 +1,10 @@
+<h2>Capa VectorFieldAnim (I)</h2>
+<pre><code data-trim>
+d3.text('Bay_U.asc', function(u) {
+    d3.text('Bay_V.asc', function(v) {
+        let vf = L.VectorField.fromASCIIGrids(u, v);
+        let layer = L.canvasLayer.vectorFieldAnim(vf).addTo(map);
+    });
+});
+</code>
+</pre>
