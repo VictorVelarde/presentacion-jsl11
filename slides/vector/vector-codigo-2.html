@@ -5,7 +5,7 @@ layer.on('click', function(e) {
         let vector = e.value;
         let v = vector.magnitude().toFixed(2);
         let d = vector.directionTo().toFixed(0);
-        
+
         let html = (`<span>${v} m/s to ${d}&deg</span>`);
         let popup = L.popup().setLatLng(e.latlng)
             .setContent(html).openOn(map);
@@ -13,3 +13,9 @@ layer.on('click', function(e) {
 });
 </code>
 </pre>
+
+<aside class="notes" data-markdown>
+* Hay una descarga completa de datos al cliente (`Field`)
+* El dato está accesible para consulta, con `click` o `mouseover`
+* Se usa *directionTo* (convenio en corrientes), pero existe también *directionFrom*
+</aside>

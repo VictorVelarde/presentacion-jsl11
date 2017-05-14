@@ -2,9 +2,14 @@
 <pre><code data-trim>
 d3.text('Bay_U.asc', function(u) {
     d3.text('Bay_V.asc', function(v) {
-        let vf = L.VectorField.fromASCIIGrids(u, v); 
-        let layer = L.canvasLayer.vectorFieldAnim(vf).addTo(map); 
+        let vf = L.VectorField.fromASCIIGrids(u, v);
+        let layer = L.canvasLayer.vectorFieldAnim(vf).addTo(map);
     });
 });
 </code>
 </pre>
+
+<aside class="notes" data-markdown>
+* Se usa d3 para las peticiones ajax, pero cualquier opción sirve (jquery, fetch...)
+* Los datos están almacenados en modo texto (ASCII Grid)
+</aside>
