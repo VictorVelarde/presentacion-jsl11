@@ -2,7 +2,7 @@
     {
         "filename": "portada.html",
         "attr": {
-            "data-background-image": "./resources/img/CorrientesCantabria.png"
+            "data-background": "./resources/img/CorrientesCantabria.png"
         }
     },
     [
@@ -183,18 +183,30 @@
             }
         },
         {
-            "filename": "vector/vector-escalar.html",
+            "filename": "vector/vector-tematico.html",
             "attr": {
                 "data-background": "#f37338"
             }
         }
     ],
     [
-        {
-            "filename": "scalar.html",
+      {
+            "filename": "escalar.html",
             "attr": {
                 "data-background": "#FDB632"
             }
+      },
+      {
+            "filename": "escalar/escalar-raster.html",
+            "attr": {
+                "data-background": "./resources/img/escalar/tiles.jpg"
+            }
+      },
+      {
+          "filename": "escalar/escalar-vector.html",
+          "attr": {
+              "data-background": "#FDB632"
+          }
       }
     ],
     [
