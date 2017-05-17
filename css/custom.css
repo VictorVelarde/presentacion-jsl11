@@ -7,14 +7,27 @@ div .box {
     background: rgba(0, 0, 0, 0.8);
     padding: 10px;
 }
+
 div .redBox {
     background: rgba(194, 35, 38, 0.8);
     padding: 20px;
 }
+
 div .orangeBox {
     background: rgba(243, 115, 56, 0.8);
     padding: 20px;
 }
+
+div .yelloBox {
+    background: rgba(253, 182, 50, 0.8);
+    padding: 20px;
+}
+
+div .tealBox {
+    background: rgba(2, 120, 120, 0.8);
+    padding: 20px;
+}
+
 
 /* Texto */
 
