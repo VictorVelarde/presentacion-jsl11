@@ -215,6 +215,24 @@
             "attr": {
                 "data-background": "#027878"
             }
+      },
+      {
+        "filename": "plugin/pilares.html",
+        "attr": {
+            "data-background": "./resources/img/plugin/columna.jpg"
+        }
+      },
+      {
+        "filename": "plugin/balance.html",
+        "attr": {
+            "data-background": "#027878"
+        }
+      },
+      {
+        "filename": "plugin/futuro-github.html",
+        "attr": {
+            "data-background": "./resources/img/plugin/github.jpg"
+        }
       }
     ],
     {
