@@ -15,13 +15,13 @@
         {
             "filename": "inicio/ih.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/IHCantabria.jpg"
+                "data-background": "./resources/img/inicio/IHCantabria.jpg"
             }
         },
         {
             "filename": "inicio/animaciones-1.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/currents.jpg"
+                "data-background": "./resources/img/inicio/currents.jpg"
             }
         },
         {
@@ -45,43 +45,43 @@
         {
             "filename": "inicio/animaciones-5.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/tortoise.jpg"
+                "data-background": "./resources/img/inicio/tortoise.jpg"
             }
         },
         {
             "filename": "inicio/animaciones-6.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/portatil.jpg"
+                "data-background": "./resources/img/inicio/portatil.jpg"
             }
         },
         {
             "filename": "inicio/earthnull-1.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/earthnull.gif"
+                "data-background": "./resources/img/inicio/earthnull.gif"
             }
         },
         {
             "filename": "inicio/earthnull-2.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/earthnull.png"
+                "data-background": "./resources/img/inicio/earthnull.png"
             }
         },
         {
             "filename": "inicio/earthnull-windmap.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/windmap.png"
+                "data-background": "./resources/img/inicio/windmap.png"
             }
         },
         {
             "filename": "inicio/earthnull-replicas.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/moda.jpg"
+                "data-background": "./resources/img/inicio/moda.jpg"
             }
         },
         {
             "filename": "inicio/earthnull-reto.html",
             "attr": {
-                "data-background-image": "./resources/img/inicio/copia.jpg"
+                "data-background": "./resources/img/inicio/copia.jpg"
             }
         }
     ],
@@ -95,13 +95,13 @@
         {
             "filename": "vector/uv.html",
             "attr": {
-                "data-background-image": "./resources/img/vector/olas.jpg"
+                "data-background": "./resources/img/vector/olas.jpg"
             }
         },
         {
             "filename": "vector/pruebas-01.html",
             "attr": {
-                "data-background-image": "./resources/img/vector/pintado.jpg"
+                "data-background": "./resources/img/vector/pintado.jpg"
             }
         },
         {
@@ -150,6 +150,12 @@
             "filename": "vector/pruebas-09.html",
             "attr": {
                 "data-background": "#f37338"
+            }
+        },
+        {
+            "filename": "vector/buceando.html",
+            "attr": {
+                "data-background": "./resources/img/vector/buzo.jpg"
             }
         },
         {
@@ -203,7 +209,37 @@
             }
       },
       {
-          "filename": "escalar/escalar-vector.html",
+          "filename": "escalar/raster-01.html",
+          "attr": {
+              "data-background": "#FDB632"
+          }
+      },
+      {
+          "filename": "escalar/raster-02.html",
+          "attr": {
+              "data-background": "#FDB632"
+          }
+      },
+      {
+          "filename": "escalar/raster-03.html",
+          "attr": {
+              "data-background": "#FDB632"
+          }
+      },
+      {
+          "filename": "escalar/raster-04.html",
+          "attr": {
+              "data-background": "#FDB632"
+          }
+      },
+      {
+          "filename": "escalar/raster-05.html",
+          "attr": {
+              "data-background": "#FDB632"
+          }
+      },
+      {
+          "filename": "escalar/raster-06.html",
           "attr": {
               "data-background": "#FDB632"
           }
