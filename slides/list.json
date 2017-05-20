@@ -193,6 +193,12 @@
             "attr": {
                 "data-background": "#f37338"
             }
+        },
+        {
+            "filename": "vector/vector-ok.html",
+            "attr": {
+              "data-background": "./resources/img/vector/water-calm.jpg"
+            }
         }
     ],
     [
@@ -210,6 +216,12 @@
       },
       {
           "filename": "escalar/raster-01.html",
+          "attr": {
+              "data-background": "#FDB632"
+          }
+      },
+      {
+          "filename": "escalar/raster-codigo-1.html",
           "attr": {
               "data-background": "#FDB632"
           }
@@ -253,15 +265,33 @@
             }
       },
       {
+        "filename": "plugin/leaflet.html",
+        "attr": {
+            "data-background": "./resources/img/plugin/code.jpg"
+        }
+      },
+      {
         "filename": "plugin/pilares.html",
         "attr": {
             "data-background": "./resources/img/plugin/columna.jpg"
         }
       },
       {
-        "filename": "plugin/balance.html",
+        "filename": "plugin/uml-clases.html",
         "attr": {
             "data-background": "#027878"
+        }
+      },
+      {
+        "filename": "plugin/caso.html",
+        "attr": {
+            "data-background": "#027878"
+        }
+      },
+      {
+        "filename": "plugin/balance.html",
+        "attr": {
+            "data-background": "./resources/img/plugin/splash.jpg"
         }
       },
       {

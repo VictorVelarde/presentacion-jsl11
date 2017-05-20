@@ -1,0 +1,8 @@
+<h2>Capa ScalarField</h2>
+<pre><code data-trim>
+d3.text('Bay_Speed.asc', function (asc) {
+    var s = L.ScalarField.fromASCIIGrid(asc);
+    var layer = L.canvasLayer.scalarField(s).addTo(map);
+});
+</code>
+</pre>
