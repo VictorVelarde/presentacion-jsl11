@@ -194,6 +194,12 @@
                 "data-background": "#f37338"
             }
         },
+		{
+            "filename": "vector/vector-esquema-plugins.html",
+            "attr": {
+              "data-background": "#f37338"
+            }
+        },				
         {
             "filename": "vector/vector-ok.html",
             "attr": {
