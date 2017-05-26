@@ -63,7 +63,7 @@
         {
             "filename": "inicio/earthnull-2.html",
             "attr": {
-                "data-background": "./resources/img/inicio/earthnull.png"
+                "data-background": "./resources/img/inicio/earthnull-estatico.png"
             }
         },
         {
