@@ -1,0 +1,16 @@
+<h2>Flexibilidad...</h2>
+<p>ej. 2 raster en Carto(DB) => 1 fila con u & v (ASCII Grids)</p>
+<pre><code data-trim>
+var sql = new cartodb.SQL({ user: 'victorvelarde' });
+sql.execute("SELECT * FROM bahia").done(function(data) {
+    var rasters = data.rows[0];
+    let vf = L.VectorField.fromASCIIGrids(
+      rasters['u'],
+      rasters['v']
+    );
+    let vlayer = L.canvasLayer.vectorFieldAnim(vf).addTo(map);
+    map.fitBounds(vlayer.getBounds());
+});
+</code>
+</pre>
+<a href="https://codepen.io/VictorVelarde/pen/dWBPwv">codepen.io</a>

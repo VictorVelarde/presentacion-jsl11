@@ -199,7 +199,7 @@
             "attr": {
               "data-background": "#f37338"
             }
-        },				
+        },
         {
             "filename": "vector/vector-ok.html",
             "attr": {
@@ -284,6 +284,12 @@
       },
       {
         "filename": "plugin/uml-clases.html",
+        "attr": {
+            "data-background": "#027878"
+        }
+      },
+      {
+        "filename": "plugin/carto.html",
         "attr": {
             "data-background": "#027878"
         }
