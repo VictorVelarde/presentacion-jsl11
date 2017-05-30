@@ -301,6 +301,12 @@
         }
       },
       {
+        "filename": "plugin/caso-2.html",
+        "attr": {
+            "data-background": "#027878"
+        }
+      },
+      {
         "filename": "plugin/balance.html",
         "attr": {
             "data-background": "./resources/img/plugin/splash.jpg"
